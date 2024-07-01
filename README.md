@@ -1,8 +1,3 @@
-## 🔗 Links
-| Work   | Owner             | Presentation                                            |
-| :-------------| :--------------- | :----------------------------------------------------- |
-|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/rajbhuwan1510/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajbhuwan-jaitawat/)| [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://docs.google.com/presentation/d/1Nm-RP4LRsWzELmdVWoL_7LVz67Sx2xoCGu53aKcVxH0/edit#slide=id.g2710a2587c9_1_1438)
-
 # Netflix Content Analysis Project
 
 
